@@ -3,6 +3,7 @@
 ## Introduction
 
 Website: https://elementsofprogramminginterviews.com/
+PDF: http://elementsofprogramminginterviews.com/sample/epilight_cpp_new.pdf
 
 EPI Judge consists of the following:
 
