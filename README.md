@@ -187,8 +187,7 @@ Then just open `epi_judge_cpp/vs/epi_judge_cpp.sln` solution with Visual Studio 
 | Replace and remove | replace\_and\_remove.cc | ReplaceAndRemove.java | replace\_and\_remove.py | 
 | Test palindromicity | is\_string\_palindromic\_punctuation.cc | IsStringPalindromicPunctuation.java | is\_string\_palindromic\_punctuation.py | 
 | Reverse all the words in a sentence | reverse\_words.cc | ReverseWords.java | reverse\_words.py | 
-| Compute all mnemonics for a phone number | phone\_number\_mnemonic.cc | PhoneNumberMnemonic.java | phone\_number\_mnemonic.py | 
-| The look-and-say problem | look\_and\_say.cc | LookAndSay.java | look\_and\_say.py | 
+| Compute all mnemonics for a phone number | phone\_number\_mnemonic.cc | PhoneNumberMnemonic.java | phone\_number\_mnemonic.py | | The look-and-say problem | look\_and\_say.cc | LookAndSay.java | look\_and\_say.py | 
 | Convert from Roman to decimal | roman\_to\_integer.cc | RomanToInteger.java | roman\_to\_integer.py | 
 | Compute all valid IP addresses | valid\_ip\_addresses.cc | ValidIpAddresses.java | valid\_ip\_addresses.py | 
 | Write a string sinusoidally | snake\_string.cc | SnakeString.java | snake\_string.py | 
